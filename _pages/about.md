@@ -14,3 +14,4 @@ I am interested in Computer Vision and Machine Learning, specifically, deep feat
 ---
 ## News
 * Emerging Researcher Interview. IEEE Biometric Council, Vol.44, 2022. [PDF](https://ieee-biometrics.org/images/pdf/Vol44-Newsletter.pdf)
+* Winners of European Biometrics Industry Awards and best presentation award at the 16th European Biometrics Max Snijder, Research, and Industry Awards. Darmstadt, Germany, 2022-09-16. [link](https://eab.org/award/reports/report2022.html?ts=1674041866)
