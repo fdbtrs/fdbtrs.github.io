@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Winners of the European Biometrics Industry Awards and best presentation award at the 16th European Biometrics Max Snijder, Research, and Industry Awards. Darmstadt, Germany, 2022-09-16. [Link](https://eab.org/award/reports/report2022.html?ts=1674041866).
+* European Biometrics Industry Awards and best presentation award at the 16th European Biometrics Max Snijder, Research, and Industry Awards. Darmstadt, Germany, 2022-09-16. [Link](https://eab.org/award/reports/report2022.html?ts=1674041866).
 * Qualcomm Audience Choice Award at the International Joint Conference on Biometrics (IJCB 2022), Oct.10-13, 2022, Abu Dhabi, United Arab Emirates. [link](https://ijcb2022.org/#/awards)
   * Fadi Boutros, Marco Huber, Patrick Siebke, Tim Rieber, Naser Damer, "SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data". [Github](https://github.com/fdbtrs/SFace-Privacy-friendly-and-Accurate-Face-Recognition-using-Synthetic-Data). [Paper](https://ieeexplore.ieee.org/document/10007961).
 * Best paper award, Impact on Business, Computer Graphics Night 2022. [link](https://www.igd.fraunhofer.de/en/media-center/news/computer-graphics-night-2022-winners.html)
